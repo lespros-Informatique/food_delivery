@@ -1,0 +1,22 @@
+{
+    "total_size":6,
+    "type":2,
+    "offset":0,
+    "products": [
+        {
+            "id": 1,
+            "name": "Nutritious fruit meal",
+            "description": "this five red bases, two are dedicated to salami",
+            "price":12,
+            "start":4,
+            "img": "image/food0.png",
+            "location": "china",
+            "created_at": "2021-12-23 15:03:24",
+            "updated_at": "2022-01-01 08:56:03",
+            "type_id":2
+
+        }
+
+    ]
+}
+
