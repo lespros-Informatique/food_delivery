@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/utils/app_icon.dart';
-import 'package:food_delivery/utils/colors.dart';
-import 'package:food_delivery/utils/dimensions.dart';
-import 'package:food_delivery/widgets/big_text.dart';
-import 'package:food_delivery/widgets/expandable_text_widget.dart';
+import 'package:woli/utils/app_icon.dart';
+import 'package:woli/utils/colors.dart';
+import 'package:woli/utils/dimensions.dart';
+import 'package:woli/widgets/big_text.dart';
+import 'package:woli/widgets/expandable_text_widget.dart';
 
 class RecommandedFoodDetail extends StatelessWidget {
   const RecommandedFoodDetail({super.key});

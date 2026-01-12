@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/utils/app_icon.dart';
-import 'package:food_delivery/utils/colors.dart';
-import 'package:food_delivery/utils/dimensions.dart';
-import 'package:food_delivery/widgets/app_column.dart';
-import 'package:food_delivery/widgets/big_text.dart';
-import 'package:food_delivery/widgets/expandable_text_widget.dart';
-import 'package:food_delivery/widgets/icon_and_text_widget.dart';
-import 'package:food_delivery/widgets/small_text.dart';
+import 'package:woli/utils/app_icon.dart';
+import 'package:woli/utils/colors.dart';
+import 'package:woli/utils/dimensions.dart';
+import 'package:woli/widgets/app_column.dart';
+import 'package:woli/widgets/big_text.dart';
+import 'package:woli/widgets/expandable_text_widget.dart';
+import 'package:woli/widgets/icon_and_text_widget.dart';
+import 'package:woli/widgets/small_text.dart';
 
 class PopularFoodDetail extends StatelessWidget {
   const PopularFoodDetail({super.key});

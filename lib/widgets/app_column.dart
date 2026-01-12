@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/widgets/big_text.dart';
-import 'package:food_delivery/widgets/icon_and_text_widget.dart';
-import 'package:food_delivery/widgets/small_text.dart';
-import 'package:food_delivery/utils/dimensions.dart';
-import 'package:food_delivery/utils/colors.dart';
+import 'package:woli/widgets/big_text.dart';
+import 'package:woli/widgets/icon_and_text_widget.dart';
+import 'package:woli/widgets/small_text.dart';
+import 'package:woli/utils/dimensions.dart';
+import 'package:woli/utils/colors.dart';
 
 class AppColumn extends StatelessWidget {
   final String text;

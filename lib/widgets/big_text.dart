@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/utils/dimensions.dart';
+import 'package:woli/utils/dimensions.dart';
 class BigText extends StatelessWidget {
   final Color? color;
   final String text;
